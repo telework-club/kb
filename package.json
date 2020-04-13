@@ -1,0 +1,21 @@
+{
+  "name": "telework-club-docsite",
+  "version": "0.1.0",
+  "description": "telework club docsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "telework",
+    "club",
+    "docsite"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
