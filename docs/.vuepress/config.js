@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Telework Club Docsite",
-  description: "Telework Club Docsite",
+  title: "远程工作",
+  description: "定义新时代的工作方式",
   head: [["link", { rel: "icon", href: "icons/favicon.png" }]],
   base: "/kb/",
   themeConfig: {
