@@ -1,8 +1,6 @@
 ---
 home: true
 heroImage: /images/telework.png
-actionText: 浏览
-actionLink: /develop/
 features:
   - title: 敏捷驱动
     details: 以 敏捷 为核心的工作方式。
@@ -12,3 +10,5 @@ features:
     details: 站在 开发人员，客户，用户的角度 拓展工作视野。
 footer: MIT Licensed | Copyright © 2020-present telework club
 ---
+
+<RoleLinks/>
