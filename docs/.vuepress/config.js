@@ -57,6 +57,8 @@ module.exports = {
         clientId: "7d466ab52a988d4a3560",
         clientSecret: "92440a7c8bbf7b27ac30b8e41ae393063abb15ff",
         locale: "zh",
+        autoCreateIssue: true,
+        admins: ["nanhapy", "lurongkai", "sinhbv", "likeconan"],
       },
     ],
   ],
