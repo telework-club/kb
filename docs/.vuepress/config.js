@@ -5,6 +5,11 @@ module.exports = {
   host: "localhost",
   base: "/kb/",
   themeConfig: {
+    repo: "telework-club/kb",
+    editLinks: true,
+    docsDir: 'docs',
+    editLinkText: '在 GitHub 上编辑此页',
+    lastUpdated: '上次更新',
     displayAllHeaders: true,
     smoothScroll: true,
     logo: "/images/logo.png",
