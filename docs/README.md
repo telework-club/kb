@@ -8,7 +8,7 @@ features:
     details: 以 提高效率，提高性价比 为工作理念。
   - title: 新视角
     details: 站在 开发人员，客户，用户的角度 拓展工作视野。
-footer: MIT Licensed | Copyright © 2020-present telework club
+footer: MIT Licensed | Copyright © 2020-presented by Telework Community
 ---
 
 <RoleLinks/>
