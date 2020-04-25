@@ -2,7 +2,7 @@
   <div class="role-container">
     <a
       class="role-item"
-      v-bind:href="role.link"
+      v-bind:href="$withBase(role.link)"
       v-for="role in roles"
       v-bind:key="role.name"
     >{{ role.name }} ></a>
@@ -14,12 +14,12 @@ export default {
   data() {
     return {
       roles: [
-        { name: "项目经理", link: "/pm" },
-        { name: "产品主管", link: "/po" },
-        { name: "Scrum Master", link: "/sm" },
-        { name: "设计", link: "/ui" },
-        { name: "开发", link: "/developer" },
-        { name: "测试", link: "/qa" }
+        { name: "项目经理", link: "/pm/" },
+        { name: "产品主管", link: "/po/" },
+        { name: "Scrum Master", link: "/sm/" },
+        { name: "设计", link: "/ui/" },
+        { name: "开发", link: "/developer/" },
+        { name: "测试", link: "/qa/" }
       ]
     };
   }
