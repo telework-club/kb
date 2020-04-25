@@ -1,1 +1,3 @@
 # PM
+
+<Vssue :title="$title" />
