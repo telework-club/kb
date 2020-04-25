@@ -34,4 +34,13 @@ module.exports = {
       "/qa/": [""],
     },
   },
+  plugins: [
+    ["@vuepress/back-to-top", true],
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-163087830-1",
+      },
+    ],
+  ],
 };
