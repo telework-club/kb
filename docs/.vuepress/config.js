@@ -61,5 +61,11 @@ module.exports = {
         admins: ["nanhapy", "lurongkai", "sinhbv", "likeconan"],
       },
     ],
+    [
+      "sitemap",
+      {
+        hostname: 'https://telework.club/kb'
+      }
+    ],
   ],
 };
