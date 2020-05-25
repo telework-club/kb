@@ -74,21 +74,19 @@ export default {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  transition: background 0.3s;
 }
 .role-link:hover {
   text-decoration: none !important;
-  background-color: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .role-link:hover .border {
   display: none;
 }
-.role-link:hover .role-name {
-  border-color: white;
-}
+
 .role-link .role-name {
   padding: 12px 20px;
-  border: 4px solid transparent;
 }
 .role-link .border {
   position: absolute;
