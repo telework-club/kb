@@ -22,19 +22,5 @@ export default {
 </script>
 
 <style>
-.role-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-bottom: 15px;
-}
-.role-item {
-  display: inline-block;
-  padding: 1rem 1.5rem;
-  border-radius: 5px;
-  text-align: center;
-  color: white;
-  margin: 1rem 2rem 1rem 0;
-  background-color: #46bd87;
-}
+
 </style>
