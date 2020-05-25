@@ -10,7 +10,7 @@
       v-for="role in roles"
       v-bind:key="role.name"
       class="role-item"
-      v-bind:style="{'background-image':`url(${role.src})`}"
+      v-bind:style="{'background-image':`url(${$withBase(role.src)})`}"
     >
       <a class="role-link" v-bind:href="$withBase(role.link)">
         <span class="role-name">{{role.name}}</span>
