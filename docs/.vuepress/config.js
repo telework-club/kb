@@ -32,7 +32,7 @@ module.exports = {
     ],
     sidebar: {
       "/pm/": [""],
-      "/po/": [""],
+      "/po/": [["my-telework-experience", "无关“风口”，我的个人云办公体验"]],
       "/sm/": [""],
       "/ui/": [""],
       "/developer/": [""],
@@ -64,8 +64,8 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: 'https://telework.club/kb'
-      }
+        hostname: "https://telework.club/kb",
+      },
     ],
   ],
 };
