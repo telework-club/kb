@@ -10,13 +10,15 @@ module.exports = {
     docsDir: "docs",
     editLinkText: "在 GitHub 上编辑此页",
     lastUpdated: "上次更新",
-    displayAllHeaders: true,
     smoothScroll: true,
     logo: "/images/logo.png",
     nav: [
       { text: "首页", link: "/" },
+      { text: "行业", link: "/industry/" },
+      { text: "经验", link: "/experience/" },
+      { text: "观点", link: "/viewpoint/" },
       {
-        text: "文档",
+        text: "知识",
         ariaLabel: "content",
         items: [
           { text: "项目经理", link: "/pm/" },
@@ -37,7 +39,23 @@ module.exports = {
       "/ui/": [""],
       "/developer/": [""],
       "/qa/": [""],
-    },
+      "/industry/": [""],
+      "/experience/": [
+        {
+          title: "经验",
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            ['', "索引"],
+            '2020/tc.01.03.001',
+            '2020/tc.01.01.001'
+          ]
+        }
+        // "/experience/",
+        // "/experience/2020/tc.01.03.001"
+      ],
+      "/viewpoint/": [""],
+    }
   },
   plugins: [
     ["@vuepress/back-to-top", true],
