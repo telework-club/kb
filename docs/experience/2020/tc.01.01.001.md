@@ -1,3 +1,24 @@
+---
+title: PingCAP 的 5 年远程办公实践
+lang: zh-CN
+permalink: /experience/2020/PingCAP-5-years-telework-practice
+meta:
+  - name: author
+    content: 黄东旭
+  - name: author-link
+    content: 
+  - name: source
+    content: https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA
+  - name: type
+    content: REPRIENT
+navbar:
+sidebar:
+prev:
+next:
+search:
+tags:
+editLink:
+---
 # PingCAP 的 5 年远程办公实践
 
 作者：黄东旭
