@@ -80,7 +80,7 @@ PingCAP 的主要产品 TiDB 是一个开源的数据库，我们研发的主要
 
 修 Bug 的流程也类似，值得一提的是我们开发了一个 bot，用于同步 GitHub 中来自社区的 Issue 到内部的 JIRA 中。
 
-**优秀工程师的创造力是无穷的，尤其在远程工作的背景下，我们非常鼓励工程师通过自制工具来提升工作的效率**。除了上面提到的 Issue 机器人，我们的[Chaos](http://mp.weixin.qq.com/s?__biz=MzI3NDIxNTQyOQ==&mid=2247490620&idx=1&sn=622f5247e5f771961ccebacc28e32ef2&chksm=eb163b56dc61b240951396602b37168bbca69bd52219914d6c6fe3deb800e1e36242a215e04c&scene=21#wechat_redirect)测试（最近已经开源, https://github.com/pingcap/chaos-mesh），CI/CD，甚至包括社交网络上简单的动态舆情监测，都有自动化的工具在做。还有小伙伴们通过自动化的手段优化自己工作中的一些流程，举几个好玩的例子：disksing 同学使用 App Script 自动生成自己的周报（http://disksing.com/review-recorder/）；siddontang 同学自己写了个小工具 github-cli（https://github.com/siddontang/github-cli）来高效的追踪关注的 Github 项目的动态；我用 Python 写了一个小脚本，每日收集 Trello 上指定 Board 内的卡片的更新，并给我汇总发邮件……这样的例子数不胜数，有时候真是很佩服大家想象力和动手能力，我们非常坚定地鼓励大家做这些事情。
+**优秀工程师的创造力是无穷的，尤其在远程工作的背景下，我们非常鼓励工程师通过自制工具来提升工作的效率**。除了上面提到的 Issue 机器人，我们的[Chaos](http://mp.weixin.qq.com/s?__biz=MzI3NDIxNTQyOQ==&mid=2247490620&idx=1&sn=622f5247e5f771961ccebacc28e32ef2&chksm=eb163b56dc61b240951396602b37168bbca69bd52219914d6c6fe3deb800e1e36242a215e04c&scene=21#wechat_redirect)测试（最近已经开源, [https://github.com/pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh)），CI/CD，甚至包括社交网络上简单的动态舆情监测，都有自动化的工具在做。还有小伙伴们通过自动化的手段优化自己工作中的一些流程，举几个好玩的例子：disksing 同学使用 App Script 自动生成自己的周报（http://disksing.com/review-recorder/）；siddontang 同学自己写了个小工具 [github-cli](https://github.com/siddontang/github-cli)来高效的追踪关注的 Github 项目的动态；我用 Python 写了一个小脚本，每日收集 Trello 上指定 Board 内的卡片的更新，并给我汇总发邮件……这样的例子数不胜数，有时候真是很佩服大家想象力和动手能力，我们非常坚定地鼓励大家做这些事情。
 
 ![我们的 IFTTT 机器人在收集提及 TiDB、PingCAP 的推文](./tc.01.01.001/2.jpeg)
 

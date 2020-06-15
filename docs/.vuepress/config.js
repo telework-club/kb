@@ -17,6 +17,7 @@ module.exports = {
       { text: "行业", link: "/industry/" },
       { text: "经验", link: "/experience/" },
       { text: "观点", link: "/viewpoint/" },
+      { text: "故事", link: "/story/" },
       {
         text: "知识",
         ariaLabel: "content",
@@ -51,8 +52,17 @@ module.exports = {
             '2020/tc.01.01.001'
           ]
         }
-        // "/experience/",
-        // "/experience/2020/tc.01.03.001"
+      ],
+      "/story/": [
+        {
+          title: "故事",
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            ['', "索引"],
+            '2020/tc.02.01.001'
+          ]
+        }
       ],
       "/viewpoint/": [""]
     }
