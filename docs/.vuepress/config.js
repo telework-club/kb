@@ -30,7 +30,7 @@ module.exports = {
         ],
       },
       { text: "关于", link: "/about/" },
-      { text: "主站", link: "https://telework.club/" },
+      { text: "主站", link: "https://telework.club/" }
     ],
     sidebar: {
       "/pm/": [""],
@@ -54,7 +54,7 @@ module.exports = {
         // "/experience/",
         // "/experience/2020/tc.01.03.001"
       ],
-      "/viewpoint/": [""],
+      "/viewpoint/": [""]
     }
   },
   plugins: [
@@ -85,5 +85,5 @@ module.exports = {
         hostname: 'https://telework.club/kb'
       }
     ],
-  ],
+  ]
 };

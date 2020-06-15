@@ -8,9 +8,11 @@ meta:
   - name: author-link
     content: https://coolshell.cn/articles/author/haoel
   - name: source
+    content: 酷 壳 – COOLSHELL
+  - name: source-link
     content: https://coolshell.cn/articles/20765.html
   - name: type
-    content: REPRIENT
+    content: reprint
 navbar:
 sidebar:
 prev:
@@ -21,8 +23,7 @@ editLink:
 ---
 # MEGAEASE的远程工作文化
 
-作者：[陈皓](https://coolshell.cn/articles/author/haoel)
-来源：[酷 壳 – COOLSHELL](https://coolshell.cn/articles/20765.html)
+<copyright :meta="$frontmatter.meta" />
 
 [MegaEase](https://megaease.com/) 是我创业的公司，主要是想把云计算（PaaS/SaaS层）的那些高可用高并发的分布式技术普及到那需要对技术自主可控的公司，这样就不需要去使用不能自主可控的闭源系统或是大公司的云平台。我于2016年开始成立MegaEase，从早期8个人，直到今天有20来个人，我们从一开始到今天都是在远程工作的公司文化。因为我很喜欢《Rework》这本书，写这本书的公司叫37signal（现名basecamp），这家公司在发《[Rework](https://coolshell.cn/articles/9156.html)》这本书的时候，整个公司只有16个人，分布在全世界8个城市，这种Geek的公司的文化很吸引我，所以，在我决定创业的时候，我就止不住地想成立这样能够远程工作的公司，于是，远程工作的团队文化就这样成为了MegaEase的基因。下面我会分享一下，我们公司的远程工作文化和其中的一些问题，最后还有一个工作协议。
 

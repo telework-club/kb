@@ -8,9 +8,11 @@ meta:
   - name: author-link
     content: 
   - name: source
+    content: PingCAP
+  - name: source-link
     content: https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA
   - name: type
-    content: REPRIENT
+    content: reprint
 navbar:
 sidebar:
 prev:
@@ -21,8 +23,7 @@ editLink:
 ---
 # PingCAP 的 5 年远程办公实践
 
-作者：黄东旭
-来源：[PingCAP](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
+<copyright :meta="$frontmatter.meta" />
 
 ## 前言
 
