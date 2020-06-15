@@ -1,3 +1,6 @@
+const nav = require('../nav')
+const sidebar = require('../sidebar')
+
 module.exports = {
   title: "远程工作",
   description: "定义新时代的工作方式",
@@ -12,60 +15,8 @@ module.exports = {
     // lastUpdated: "上次更新",
     smoothScroll: true,
     logo: "/images/logo.png",
-    nav: [
-      { text: "首页", link: "/" },
-      { text: "行业", link: "/industry/" },
-      { text: "经验", link: "/experience/" },
-      { text: "观点", link: "/viewpoint/" },
-      { text: "故事", link: "/story/" },
-      {
-        text: "知识",
-        ariaLabel: "content",
-        items: [
-          { text: "项目经理", link: "/pm/" },
-          { text: "产品主管", link: "/po/" },
-          { text: "Scrum Master", link: "/sm/" },
-          { text: "设计", link: "/ui/" },
-          { text: "开发", link: "/developer/" },
-          { text: "测试", link: "/qa/" },
-        ],
-      },
-      { text: "关于", link: "/about/" },
-      { text: "主站", link: "https://telework.club/" }
-    ],
-    sidebar: {
-      "/pm/": [""],
-      "/po/": [""],
-      "/sm/": [""],
-      "/ui/": [""],
-      "/developer/": [""],
-      "/qa/": [""],
-      "/industry/": [""],
-      "/experience/": [
-        {
-          title: "经验",
-          collapsable: false,
-          sidebarDepth: 2,
-          children: [
-            ['', "索引"],
-            '2020/tc.01.03.001',
-            '2020/tc.01.01.001'
-          ]
-        }
-      ],
-      "/story/": [
-        {
-          title: "故事",
-          collapsable: false,
-          sidebarDepth: 2,
-          children: [
-            ['', "索引"],
-            '2020/tc.02.01.001'
-          ]
-        }
-      ],
-      "/viewpoint/": [""]
-    }
+    nav: nav,
+    sidebar: sidebar
   },
   plugins: [
     ["@vuepress/back-to-top", true],
