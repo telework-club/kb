@@ -1,9 +1,33 @@
 module.exports = {
-  "/pm/": [""],
+  "/pm/": [
+    {
+      title: "项目经理",
+      collapsable: false,
+      sidebarDepth: 2,
+      children: [
+        ['', "索引"],
+        '2020/tc.03.01.001',
+      ]
+    }
+  ],
   "/po/": [""],
   "/sm/": [""],
   "/ui/": [""],
-  "/developer/": [""],
+  "/developer/": [
+    {
+      title: "程序员",
+      collapsable: false,
+      sidebarDepth: 2,
+      children: [
+        ['', "索引"],
+        '2020/tc.03.01.001',
+        '2020/tc.03.01.002',
+        '2020/tc.03.02.001',
+        '2020/tc.03.02.002',
+        '2020/tc.03.03.001',
+      ]
+    }
+  ],
   "/qa/": [""],
   "/industry/": [
     {
@@ -13,7 +37,7 @@ module.exports = {
       children: [
         ['', "行业指引"]
       ]
-  }],
+    }],
   "/experience/": [
     {
       title: "经验",

@@ -1,6 +1,31 @@
+---
+title: 远程工作和外包有什么不同
+lang: zh-CN
+permalink: /developer/2020/difference-between-remote-work-and-outsourcing
+meta:
+  - name: author
+    content: Slasify
+  - name: author-link
+    content: https://www.zhihu.com/org/slasify
+  - name: source
+    content: 知乎
+  - name: source-link
+    content: https://zhuanlan.zhihu.com/p/72083042
+  - name: type
+    content: reprint
+navbar:
+sidebar:
+prev:
+next:
+search:
+tags:
+editLink:
+---
 # 远程工作和外包有什么不同
 
-[转载-侵删](https://zhuanlan.zhihu.com/p/72083042)
+<copyright :meta="$frontmatter.meta" />
+
+## 前言
 
 很多雇主和工作者对于远程工作（更精确的说，是远程「雇佣」）和外包之间的界限还是有点模糊，很多人以为加入远程工作的行列就需要不断地自己找项目、不断地和甲方谈价格、不断地催款…. 其实，远程工作可能和你想的不太一样。
 
@@ -8,7 +33,7 @@
 
 根据一些国家人力部（主管单位）的解释，我们可以这么区分：
 
-### 远程雇佣 （也就是我们口语说的「远程工作」） — Contract OF Service
+## 远程雇佣 （也就是我们口语说的「远程工作」） — Contract OF Service
 
 * 关系：工作者和公司是「雇主-雇员」的关系
 * 盈亏：工作者不需要自己承担盈亏
@@ -19,7 +44,7 @@
 * 管理：公司对工作者有高度的管理权力
 * 吃饭工具：公司一般可以在一定的限度下提供工作者工作所需的工具
 
-### 外包 — Contract For Service
+## 外包 — Contract For Service
 
 * 关系：工作者和公司是甲方-乙方的关系，也就是业主-承包商的关系
 * 盈亏：工作者需要自己负担项目的盈亏，也可决定是否要将盈利分享给其他人

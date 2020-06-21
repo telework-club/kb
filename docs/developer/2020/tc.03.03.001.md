@@ -1,8 +1,33 @@
+---
+title: 远程工作是成年人的游戏
+lang: zh-CN
+permalink: /developer/2020/remote-work-is-adult-game
+meta:
+  - name: author
+    content: Terry Tai
+  - name: author-link
+    content: https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi
+  - name: source
+    content: Terry Tai
+  - name: source-link
+    content: https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi
+  - name: type
+    content: reprint
+navbar:
+sidebar:
+prev:
+next:
+search:
+tags:
+editLink:
+---
 # 远程工作是成年人的游戏
 
-[转载-侵删](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
+<copyright :meta="$frontmatter.meta" />
 
 ![远程工作](https://phaven-prod.s3.amazonaws.com/files/image_part/asset/2414060/mA9AfiH6-jXPGzHFWEgPhm7ERIU/large_book-remote-office-not-required-1024x614.jpg)
+
+## 故事开始
 
 这次疫情让 “远程工作”这个词再一次进入了大众的视野。让很多没有远程工作过的人也能体会一把，不知道大家是什么感受？
 
@@ -51,7 +76,7 @@ Intridea 崇尚远程工作，他们相信优秀的人不一定在你身边，�
 
 那怎么办呢？
 
-#### 事后review！
+## 事后review！
 
 信任其实并不代表啥都不管，只是说不要把过多的精力放在事前的审核和制度的建立上。相反我们应该通过事后的 review 来确定一个员工的效率是不是足够高，是否合格。 新一点的员工，可以每周 review 一次。随着员工呆得时间增加，可以延长的半个月，一个月来进行一次 review.
 
