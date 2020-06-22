@@ -28,36 +28,36 @@ export default {
         {
           name: "项目经理",
           link: "/industry/internet/pm/",
-          src: "/internet-roles/pm.png",
+          src: "/internet-roles/pm.png"
         },
         {
           name: "产品主管",
           link: "/industry/internet/po/",
-          src: "/internet-roles/po.png",
+          src: "/internet-roles/po.png"
         },
         {
           name: "Scrum Master",
           link: "/industry/internet/sm/",
-          src: "/internet-roles/scrum-master.png",
+          src: "/internet-roles/scrum-master.png"
         },
         {
           name: "用户设计&体验",
           link: "/industry/internet/ux-ui/",
-          src: "/internet-roles/ui.jpg",
+          src: "/internet-roles/ui.jpg"
         },
         {
           name: "研发",
           link: "/industry/internet/develop/",
-          src: "/internet-roles/developer.jpg",
+          src: "/internet-roles/developer.jpg"
         },
         {
           name: "质量管理",
           link: "/industry/internet/qa/",
-          src: "/internet-roles/qa.png",
-        },
-      ],
+          src: "/internet-roles/qa.png"
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 
@@ -72,7 +72,7 @@ export default {
 .role-item {
   background-repeat: no-repeat;
   border-radius: 10px;
-  height: 20vh;
+  height: 180px;
   min-height: 180px;
   background-size: cover;
   background-position: center;
