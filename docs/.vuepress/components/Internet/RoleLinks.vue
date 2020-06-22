@@ -25,20 +25,12 @@ export default {
   data() {
     return {
       roles: [
-        { name: "项目经理", link: "/pm/", src: "/role-images/pm.png" },
-        { name: "产品主管", link: "/po/", src: "/role-images/po.png" },
-        {
-          name: "Scrum Master",
-          link: "/sm/",
-          src: "/role-images/scrum-master.png"
-        },
-        { name: "设计", link: "/ui/", src: "/role-images/ui.jpg" },
-        {
-          name: "开发",
-          link: "/developer/",
-          src: "/role-images/developer.jpg"
-        },
-        { name: "测试", link: "/qa/", src: "/role-images/qa.png" }
+        { name: "项目经理", link: "/industry/internet/pm/", src: "/role-images/pm.png" },
+        { name: "产品主管", link: "/industry/internet/po/", src: "/role-images/po.png" },
+        { name: "Scrum Master", link: "/industry/internet/sm/", src: "/role-images/scrum-master.png" },
+        { name: "设计", link: "/industry/internet/ui/", src: "/role-images/ui.jpg" },
+        { name: "开发", link: "/industry/internet/developer/", src: "/role-images/developer.jpg" },
+        { name: "测试", link: "/industry/internet/qa/", src: "/role-images/qa.png" }
       ]
     };
   }

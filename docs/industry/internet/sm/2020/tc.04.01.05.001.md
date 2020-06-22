@@ -1,7 +1,7 @@
 ---
 title: 疫情来袭，远程办公，敏捷团队怎么办？
 lang: zh-CN
-permalink: /experience/2020/scrum-telework-practice
+permalink: /industry/internet/sm/2020/scrum-telework-practice
 meta:
   - name: author
     content: Eric Liao 廖靖斌
@@ -56,13 +56,13 @@ editLink:
 
 1） 有很多敏捷团队管理需求直接使用的是物理的故事卡和故事墙，在远程工作环境下，这个会是一个大问题。推荐使用一些可视化的电子看板工具比如 Leangoo，来代替故事卡和故事墙。
 
-[Board](./images/e3762e8c-fa46-495e-9cf8-ead8386ec32d.png)
+![Board](./tc.04.01.05.001/e3762e8c-fa46-495e-9cf8-ead8386ec32d.png)
 
 2） 针对需求的协作，还有一个比较突出的问题是，如何进行远程的需求梳理活动，需求梳理活动通常需要团队一起共创完成需求细化、编写用户故事的验收条件等。 那么远程环境下怎么来开展需求梳理呢？
 
 我们推荐的方式是使用视频会议+Leangoo 协作式脑图来进行。Leangoo 提供了一个多人实时协作的脑图，通过这个脑图我们可以实现从 Epic 到 Feature、Story、AC（验收条件）的四层结构可视化，并且团队成员可以共同远程实时编写故事和验收条件。
 
-[Progress](./images/7f92ea35-d982-4368-928d-42824ca55011.png)
+![Progress](./tc.04.01.05.001/7f92ea35-d982-4368-928d-42824ca55011.png)
 
 3） 需求确认和设计效果的确认
 
@@ -72,7 +72,7 @@ editLink:
 
 1）物理的任务看板，在这个时候，可以通过实时的可视化电子看板替代，电子看板一定要便于操作，能够达到接近物理看板的易用性。Leangoo 工具提供了实时同步，实时协作的看板，非常易用，可以实现可视化和透明化的管理。
 
-[Sprint Step](./images/23b4edd7-95bd-406f-86fe-b0d0167bee13.png)
+![Sprint Step](./tc.04.01.05.001/23b4edd7-95bd-406f-86fe-b0d0167bee13.png)
 
 2） 远程 Sprint 计划会议
 
@@ -98,7 +98,7 @@ editLink:
 
 缺陷和问题的跟踪，如果是当前迭代的缺陷，直接放到迭代看板上处理就可以了，如果涉及到遗留的缺陷，可以使用 leangoo 的缺陷看板来来进行实时跟踪。
 
-[Issue track](./images/522ac8d8-83c2-46cb-b4ec-e8f74756a3ec.png)
+![Issue track](./tc.04.01.05.001/522ac8d8-83c2-46cb-b4ec-e8f74756a3ec.png)
 
 7） 迭代过程的 Showcase
 

@@ -1,19 +1,55 @@
 module.exports = {
-  "/pm/": [""],
-  "/po/": [""],
-  "/sm/": [""],
-  "/ui/": [""],
-  "/developer/": [""],
-  "/qa/": [""],
-  "/industry/": [
-    {
-      title: "行业",
-      collapsable: false,
-      sidebarDepth: 2,
-      children: [
-        ['', "行业指引"]
-      ]
+  "/industry/internet/pm/": [{
+    title: "项目经理",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"]
+    ]
   }],
+  "/industry/internet/po/": [{
+    title: "产品经理",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"]
+    ]
+  }],
+  "/industry/internet/sm/": [{
+    title: "Scrum Master",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"],
+      '2020/tc.04.01.05.001'
+    ]
+  }],
+  "/industry/internet/ui/": [{
+    title: "设计",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"],
+    ]
+  }],
+  "/industry/internet/developer/": [{
+    title: "开发",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"]
+    ]
+  }],
+  "/industry/internet/qa/": [{
+    title: "测试",
+    collapsable: false,
+    sidebarDepth: 2,
+    children: [
+      ['', "索引"],
+      '2020/tc.04.01.04.001'
+    ]
+  }],
+
   "/experience/": [
     {
       title: "经验",
