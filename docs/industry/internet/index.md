@@ -1,5 +1,4 @@
 ---
-pageClass: home
 editLink: false
 sidebar: false
 ---
