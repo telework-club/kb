@@ -9,11 +9,9 @@
 </template >
 
 <script>
-import RoleLinks from "./RoleLinks";
 import Features from "./Features";
 export default {
   components: {
-    RoleLinks,
     Features
   }
 };

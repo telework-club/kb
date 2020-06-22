@@ -24,16 +24,16 @@ module.exports = {
       '2020/tc.04.01.05.001'
     ]
   }],
-  "/industry/internet/ui/": [{
-    title: "设计",
+  "/industry/internet/ux-ui/": [{
+    title: "用户设计&体验",
     collapsable: false,
     sidebarDepth: 2,
     children: [
       ['', "索引"],
     ]
   }],
-  "/industry/internet/developer/": [{
-    title: "开发",
+  "/industry/internet/develop/": [{
+    title: "研发",
     collapsable: false,
     sidebarDepth: 2,
     children: [
@@ -41,7 +41,7 @@ module.exports = {
     ]
   }],
   "/industry/internet/qa/": [{
-    title: "测试",
+    title: "质量管理",
     collapsable: false,
     sidebarDepth: 2,
     children: [
