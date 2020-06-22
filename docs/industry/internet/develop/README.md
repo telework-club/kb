@@ -2,7 +2,7 @@
 editLink: false
 ---
 
-# 程序员
+# 开发
 
 * [一个远程工作者的思考与分享](./2020/as-one-remote-worker-thought-and-share)
 * [远程工作是成年人的游戏](./2020/remote-work-is-adult-game)
