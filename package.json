@@ -23,5 +23,8 @@
     "@vuepress/plugin-medium-zoom": "^1.4.1",
     "vuepress": "^1.5.2",
     "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "dependencies": {
+    "vuetify": "^2.3.1"
   }
 }

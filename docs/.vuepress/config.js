@@ -46,5 +46,9 @@ module.exports = {
         hostname: 'https://telework.club/kb'
       }
     ],
+  ],
+  extraWatchFiles: [
+    'nav.js',
+    'sidebar.js'
   ]
 };

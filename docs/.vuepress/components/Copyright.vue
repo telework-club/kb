@@ -45,6 +45,9 @@ export default {
 }
 </script>
 <style scoped>
+.copyright {
+    margin: 15px 0;
+}
 .copyright span {
     margin-right: 5px;
 }

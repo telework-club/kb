@@ -10,27 +10,51 @@
       v-for="role in roles"
       v-bind:key="role.name"
       class="role-item"
-      v-bind:style="{'background-image':`url(${$withBase(role.src)})`}"
+      v-bind:style="{ 'background-image': `url(${$withBase(role.src)})` }"
     >
       <a class="role-link" v-bind:href="$withBase(role.link)">
-        <span class="role-name">{{role.name}}</span>
+        <span class="role-name">{{ role.name }}</span>
         <span class="border"></span>
       </a>
     </div>
   </div>
-</template >
+</template>
 
 <script>
 export default {
   data() {
     return {
       roles: [
-        { name: "项目经理", link: "/industry/internet/pm/", src: "/role-images/pm.png" },
-        { name: "产品主管", link: "/industry/internet/po/", src: "/role-images/po.png" },
-        { name: "Scrum Master", link: "/industry/internet/sm/", src: "/role-images/scrum-master.png" },
-        { name: "用户设计&体验", link: "/industry/internet/ux-ui/", src: "/role-images/ui.jpg" },
-        { name: "研发", link: "/industry/internet/develop/", src: "/role-images/developer.jpg" },
-        { name: "质量管理", link: "/industry/internet/qa/", src: "/role-images/qa.png" }
+        {
+          name: "项目经理",
+          link: "/industry/internet/pm/",
+          src: "/internet-roles/pm.png"
+        },
+        {
+          name: "产品主管",
+          link: "/industry/internet/po/",
+          src: "/internet-roles/po.png"
+        },
+        {
+          name: "Scrum Master",
+          link: "/industry/internet/sm/",
+          src: "/internet-roles/scrum-master.png"
+        },
+        {
+          name: "用户设计&体验",
+          link: "/industry/internet/ux-ui/",
+          src: "/internet-roles/ui.jpg"
+        },
+        {
+          name: "研发",
+          link: "/industry/internet/develop/",
+          src: "/internet-roles/developer.jpg"
+        },
+        {
+          name: "质量管理",
+          link: "/industry/internet/qa/",
+          src: "/internet-roles/qa.png"
+        }
       ]
     };
   }
@@ -48,7 +72,7 @@ export default {
 .role-item {
   background-repeat: no-repeat;
   border-radius: 10px;
-  height: 20vh;
+  height: 180px;
   min-height: 180px;
   background-size: cover;
   background-position: center;

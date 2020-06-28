@@ -55,41 +55,34 @@ module.exports = {
       '2020/tc.04.01.04.001'
     ]
   }],
-
   "/experience/": [
     {
       title: "经验",
       collapsable: false,
       sidebarDepth: 2,
       children: [
-        ['', "索引"],
-        '2020/tc.01.03.001',
-        '2020/tc.01.01.001',
-        '2020/tc.01.04.001'
-      ]
-    }
+        ["", "索引"],
+        "2020/tc.01.03.001",
+        "2020/tc.01.01.001",
+        "2020/tc.01.04.001",
+        "2020/tc.01.04.002",
+      ],
+    },
   ],
   "/story/": [
     {
       title: "故事",
       collapsable: false,
       sidebarDepth: 2,
-      children: [
-        ['', "索引"],
-        '2020/tc.02.01.001',
-        '2020/tc.02.01.002'
-      ]
-    }
+      children: [["", "索引"], "2020/tc.02.01.001", "2020/tc.02.01.002"],
+    },
   ],
   "/viewpoint/": [
     {
       title: "观点",
       collapsable: false,
       sidebarDepth: 2,
-      children: [
-        ['', "索引"],
-        '2020/tc.03.01.001'
-      ]
-    }
-  ]
-}
+      children: [["", "索引"], "2020/tc.03.01.001", "2020/tc.03.01.002"],
+    },
+  ],
+};
