@@ -6,7 +6,7 @@ module.exports = {
   description: "定义新时代的工作方式",
   head: [["link", { rel: "icon", href: "icons/favicon.png" }]],
   host: "localhost",
-  base: "/kb/",
+  base: "/",
   themeConfig: {
     repo: "telework-club/kb",
     editLinks: true,
