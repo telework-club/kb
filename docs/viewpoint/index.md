@@ -4,5 +4,17 @@ editLink: false
 
 # 观点
 
+
+## 2020
+
+- [疫情催生，2020或为中国远程办公“元年”](./2020/telework-china-year-one)
+- [远程公司可能遭遇的6种变化](./2020/telework-company-6-new-changes)
+- [科技公司远程办公将为长态](./2020/technology-company-telework-will-be-normalization)
+- [Gartner CFO调查： 74％企业将部分岗位永久转为远程](./2020/gartner-cf-74-percent-componay-adopt-telework)
+- [2020年远程工作现状报告](./2020/2020-telework-situation-report)
 - [远程办公，会是现代公司的终局吗？](./2020/telework-modern-company-killer)
 - [远程办公是否适合你？](./2020/is-remote-suitable-for-you)
+
+## 2019
+
+- [1024 VS 996，远程工作离我们有多远？](./2019/how-far-than-telework)
