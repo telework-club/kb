@@ -31,6 +31,9 @@ module.exports = {
     sidebarDepth: 2,
     children: [
       ['', "索引"],
+      '2020/tc.06.01.001',
+      '2020/tc.06.01.002',
+      '2020/tc.06.01.003'
     ]
   }],
   "/industry/internet/develop/": [{
@@ -62,10 +65,11 @@ module.exports = {
       sidebarDepth: 2,
       children: [
         ["", "索引"],
-        "2020/tc.01.03.001",
         "2020/tc.01.01.001",
+        "2020/tc.01.03.001",
         "2020/tc.01.04.001",
         "2020/tc.01.04.002",
+        "2020/tc.01.04.003",
       ],
     },
   ],
@@ -82,7 +86,7 @@ module.exports = {
       title: "观点",
       collapsable: false,
       sidebarDepth: 2,
-      children: [["", "索引"], "2020/tc.03.01.001", "2020/tc.03.01.002"],
+      children: [["", "索引"], "2020/tc.03.01.001", "2020/tc.03.01.002", "2020/tc.03.01.003", "202/tc.03.01.004"],
     },
   ],
 };
