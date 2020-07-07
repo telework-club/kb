@@ -12,3 +12,4 @@ editLink: false
 - [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](./2020/telework-freestyle-explore)
 - [写给远程工作一周年的日子](./2020/telework-one-year)
 - [感受不同——我在墨尔本的远程办公生活](./2020/telework-in-melbourne)
+- [向往的生活第 x 季 - 程序员想要的 Work From Home](./2020/back-to-field-work-from-home)
