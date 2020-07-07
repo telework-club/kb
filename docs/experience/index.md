@@ -9,6 +9,7 @@ editLink: false
 - [远程工作者常犯的3大错误](./2020/teleworker-3-common-mistakes)
 - [与远程员工建立信任3要素](./2020/build-confidence-between-telework-employee)
 - [疫情之下，软件开发服务商盛安德是靠什么顺利复工的？](./2020/return-to-work-during-covid-19)
+- [“管理的本质是激发一个人的善意和潜能” ——远程工作常见误区](./2020/common-misconceptions-about-telework)
 - [远程工作者必须知道的5件事](./2020/5-things-teleworker-must-know)
 - [如何增强远程团队的凝聚力](./2020/enhance-telework-team-cohesion)
 - [管理远程团队5招指南](./2020/5-tips-to-manage-telework-team)
