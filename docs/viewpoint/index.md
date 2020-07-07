@@ -14,6 +14,7 @@ editLink: false
 - [2020年远程工作现状报告](./2020/2020-telework-situation-report)
 - [远程办公，会是现代公司的终局吗？](./2020/telework-modern-company-killer)
 - [远程办公是否适合你？](./2020/is-remote-suitable-for-you)
+- [科技公司远程办公将为常态](./2020/telework-will-become-the-new-normal-for-it)
 
 ## 2019
 
