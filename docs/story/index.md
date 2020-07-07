@@ -13,3 +13,4 @@ editLink: false
 - [写给远程工作一周年的日子](./2020/telework-one-year)
 - [感受不同——我在墨尔本的远程办公生活](./2020/telework-in-melbourne)
 - [向往的生活第 x 季 - 程序员想要的 Work From Home](./2020/back-to-field-work-from-home)
+- [让远程办公成为提高工作和生活质量的有效方式](./2020/effective-work-and-life-by-telework)
