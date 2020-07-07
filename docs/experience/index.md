@@ -25,6 +25,7 @@ editLink: false
 - [PingCAP 的 5 年远程办公实践](./2020/PingCAP-5-years-telework-practice)
 - [远程工作的八个感受](./2020/telework-eight-feelings)
 - [从远程办公看未来的工作方式：自律者得自由](./2020/telework-future-work-style)
+- [远程办公的自我修养和团队管理](./2020/self-and-team-management-about-telework)
 
 ## 2019
 
