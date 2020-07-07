@@ -30,3 +30,9 @@ editLink: false
 
 - [远程团队为什么需要虚拟饮水机？](./2019/why-telework-team-need-virtual-water-dispenser)
 - [10步教你组建高效远程分布式团队](./2019/10-steps-building-efficient-distributed-team)
+
+# 方法学
+
+## 2020
+
+- [【实用指南】谈谈我的远程办公基础设施——云](./2020/cloud-the-infrastructure-of-telework)
