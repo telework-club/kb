@@ -11,6 +11,7 @@ editLink: false
 - [疫情之下，软件开发服务商盛安德是靠什么顺利复工的？](./2020/return-to-work-during-covid-19)
 - [“管理的本质是激发一个人的善意和潜能” ——远程工作常见误区](./2020/common-misconceptions-about-telework)
 - [远程工作与敏捷 ——为什么我们在远程社区谈敏捷？](./2020/agile-and-telework)
+- [远程工作，一种将工作融入生活的方式](./2020/a-way-of-integrating-work-into-life)
 - [远程办公，谈谈我们的经验](./2020/experience-about-telework)
 - [远程工作者必须知道的5件事](./2020/5-things-teleworker-must-know)
 - [如何增强远程团队的凝聚力](./2020/enhance-telework-team-cohesion)
