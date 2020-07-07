@@ -19,3 +19,11 @@ editLink: false
 ## 2019
 
 - [1024 VS 996，远程工作离我们有多远？](./2019/how-far-than-telework)
+
+
+# 趋势
+
+
+## 2020
+
+- [Gitlab远程办公报告：办公的未来是远程](./2020/gitlab-remote-work-report)
