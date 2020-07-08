@@ -43,7 +43,7 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: 'https://telework.club/kb'
+        hostname: 'https://kb.telework.club'
       }
     ],
   ],
