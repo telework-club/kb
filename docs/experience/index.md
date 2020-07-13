@@ -33,6 +33,7 @@ editLink: false
 - [当理想走进现实——我终于开始了真正意义上的远程办公](./2020/true-meaning-of-telework)
 - [远程办公的自我修养和团队管理](./2020/self-and-team-management-about-telework)
 - [颖姐案例之远程协作那些事](./2020/some-pieces-of-telework)
+- [刘润：高效远程办公指南](./2020/efficient-remote-office-guid)
 ## 2019
 
 - [远程团队为什么需要虚拟饮水机？](./2019/why-telework-team-need-virtual-water-dispenser)
