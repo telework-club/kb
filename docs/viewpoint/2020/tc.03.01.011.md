@@ -25,7 +25,7 @@ editLink:
 
 <copyright :meta="$frontmatter.meta" />
 
-![](./tc.03.01.003/1.png)
+![](./tc.03.01.011/1.png)
 
 ## 为什么我们需要远程办公
 
