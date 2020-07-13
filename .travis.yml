@@ -16,6 +16,8 @@ script:
 #   keep_history: true
 #   on:
 #     branch: master
+addons:
+  ssh_known_hosts: $DEPLOY_HOST
 deploy:
   provider: script
   skip_cleanup: true
