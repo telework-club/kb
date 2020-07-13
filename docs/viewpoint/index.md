@@ -7,6 +7,7 @@ editLink: false
 
 ## 2020
 
+- [2020全球敏捷报告——分布团队将为新常态](./2020/2020-global-agile-report)
 - [疫情催生，2020或为中国远程办公“元年”](./2020/telework-china-year-one)
 - [远程公司可能遭遇的6种变化](./2020/telework-company-6-new-changes)
 - [科技公司远程办公将为长态](./2020/technology-company-telework-will-be-normalization)
