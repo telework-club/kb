@@ -20,6 +20,6 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet docs/.vuepress/dist $DEPLOY_PATH
+  script: rsync -zr --delete --quiet docs/.vuepress/dist/ $DEPLOY_PATH
   on:
     branch: master
