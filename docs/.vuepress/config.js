@@ -1,43 +1,22 @@
+const nav = require('../nav')
+const sidebar = require('../sidebar')
+
 module.exports = {
   title: "远程工作",
   description: "定义新时代的工作方式",
   head: [["link", { rel: "icon", href: "icons/favicon.png" }]],
   host: "localhost",
-  base: "/kb/",
+  base: "/",
   themeConfig: {
     repo: "telework-club/kb",
     editLinks: true,
     docsDir: "docs",
     editLinkText: "在 GitHub 上编辑此页",
-    lastUpdated: "上次更新",
-    displayAllHeaders: true,
+    // lastUpdated: "上次更新",
     smoothScroll: true,
     logo: "/images/logo.png",
-    nav: [
-      { text: "首页", link: "/" },
-      {
-        text: "文档",
-        ariaLabel: "content",
-        items: [
-          { text: "项目经理", link: "/pm/" },
-          { text: "产品主管", link: "/po/" },
-          { text: "Scrum Master", link: "/sm/" },
-          { text: "设计", link: "/ui/" },
-          { text: "开发", link: "/developer/" },
-          { text: "测试", link: "/qa/" },
-        ],
-      },
-      { text: "关于", link: "/about/" },
-      { text: "主站", link: "https://telework.club/" },
-    ],
-    sidebar: {
-      "/pm/": [""],
-      "/po/": [["my-telework-experience", "无关“风口”，我的个人云办公体验"]],
-      "/sm/": [""],
-      "/ui/": [""],
-      "/developer/": [""],
-      "/qa/": [""],
-    },
+    nav: nav,
+    sidebar: sidebar
   },
   plugins: [
     ["@vuepress/back-to-top", true],
@@ -64,8 +43,12 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: "https://telework.club/kb",
-      },
+        hostname: 'https://kb.telework.club'
+      }
     ],
   ],
+  extraWatchFiles: [
+    'nav.js',
+    'sidebar.js'
+  ]
 };
