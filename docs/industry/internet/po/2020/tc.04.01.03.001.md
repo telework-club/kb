@@ -6,10 +6,8 @@ meta:
   - name: author
     content: 孙君
   - name: author-link
-    content: mailto://rd084c-18@163.com#subject=在telework上看到了您的文章
+    content: mailto://rd084c-18@163.com?subject=在telework上看到了您的文章
   - name: source
-    content: 
-  - name: source-link
     content: 
   - name: type
     content: original
@@ -23,6 +21,8 @@ editLink:
 ---
 
 # 无关“风口”，我的个人云办公体验
+
+<copyright :meta="$frontmatter.meta" />
 
 2020 年，世界陷入了新冠状病毒的危机，疫情的发展，使得云办公成为了多数公司主流办公方式。
 事实上，云办公或者说远程办公，并不是 2020 年才开始的新生事物。1979 年，IBM 就为了解决总部主机的拥堵问题，安排几个员工在家远程办公。此后，随着互联网的发展和城市现代化进程，远程办公成为并不新奇的一种办公方式或者说一种文化。
