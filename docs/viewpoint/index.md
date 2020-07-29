@@ -22,10 +22,10 @@ editLink: false
 
 - [1024 VS 996，远程工作离我们有多远？](./2019/how-far-than-telework)
 
-
 # 趋势
-
 
 ## 2020
 
+- [2020年远程工作的17个统计数据](./2020/2020-telework-17-statistical-data)
+- [远程工作——新一代管理者的必选项](./2020/telework-is-new-generation-manager-option)
 - [Gitlab远程办公报告：办公的未来是远程](./2020/gitlab-remote-work-report)

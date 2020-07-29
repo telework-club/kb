@@ -6,6 +6,7 @@ editLink: false
 
 ## 2020
 
+- [远程工作企业文化5要素](./2020/telework-company-culture-5-factors)
 - [远程工作者常犯的3大错误](./2020/teleworker-3-common-mistakes)
 - [与远程员工建立信任3要素](./2020/build-confidence-between-telework-employee)
 - [疫情之下，软件开发服务商盛安德是靠什么顺利复工的？](./2020/return-to-work-during-covid-19)
